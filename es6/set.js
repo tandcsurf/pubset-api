@@ -1,5 +1,5 @@
 'use strict';
-
+//es6
 class Set {
   constructor(){
 
